@@ -1,0 +1,15 @@
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\bin\Debug\net7.0\Examples001_ConsoleHello.exe
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\bin\Debug\net7.0\Examples001_ConsoleHello.deps.json
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\bin\Debug\net7.0\Examples001_ConsoleHello.runtimeconfig.json
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\bin\Debug\net7.0\Examples001_ConsoleHello.dll
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\bin\Debug\net7.0\Examples001_ConsoleHello.pdb
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.csproj.AssemblyReference.cache
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.AssemblyInfoInputs.cache
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.AssemblyInfo.cs
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.csproj.CoreCompileInputs.cache
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.dll
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\refint\Examples001_ConsoleHello.dll
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.pdb
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\Examples001_ConsoleHello.genruntimeconfig.cache
+D:\Инженер тестировщик\1 четверть\C#\Examples\Examples001_ConsoleHello\obj\Debug\net7.0\ref\Examples001_ConsoleHello.dll
